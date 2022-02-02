@@ -1,0 +1,17 @@
+
+================================================================
+======== txAdmin Starting - 2/2/2022, 9:38:46 AM                
+================================================================
+[09:39:45] [stork1e] created admins file
+[09:41:26] [stork1e] Changing global settings via setup stepper and started Deployer.
+[09:41:46] [stork1e] Setting recipe.
+[09:41:50] [stork1e] Running recipe.
+[13:02:04] [stork1e] Configured server.cfg from deployer.
+[13:02:04] [stork1e] Completed and committed server deploy.
+[13:04:33] [stork1e] refresh
+[13:08:13] [stork1e] Editing server CFG File.
+[13:08:20] [stork1e] RESTART SERVER
+[13:11:17] [stork1e] start lambda-menu
+[13:11:30] [stork1e] load easyadmin
+[13:11:37] [stork1e] easyadmin
+[13:11:38] [stork1e] menu

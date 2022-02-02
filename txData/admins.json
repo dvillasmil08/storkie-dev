@@ -1,0 +1,21 @@
+[
+  {
+    "name": "stork1e",
+    "master": true,
+    "password_hash": "$2a$11$O7rsCAxCarp1bk7/Jm5RSuaGhq17QyNU3fXwIG2c6uzKY3Zy5Lnau",
+    "providers": {
+      "citizenfx": {
+        "id": "stork1e",
+        "identifier": "fivem:195121",
+        "data": {
+          "sub": "f281d76fd1c46f8760dd12dbca3b17b9",
+          "nameid": "https://forum.cfx.re/internal/user/195121",
+          "name": "stork1e",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/stork1e/256/539654_2.png",
+          "profile": "https://forum.cfx.re/u/stork1e"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
